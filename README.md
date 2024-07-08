@@ -1,0 +1,4 @@
+- Medical student by day, bug author by night
+- Interested in technologies that maximize user **liberty and productivity**.
+  - <u>I avoid relying on proprietary & centralised platforms<u>, *like GitHub*.
+  - You can find my projects [here](https://git.thanosapollo.org/).
